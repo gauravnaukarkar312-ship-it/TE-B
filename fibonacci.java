@@ -1,6 +1,6 @@
 
-import java.util.scanner;
-public class Main {
+import java.util.Scanner;
+class fibonacci {
     public static void main(String[] args) {
         int n=10;
         int one =0;
